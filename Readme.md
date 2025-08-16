@@ -7,13 +7,13 @@
 
 [Получить сервисный токен приложения](https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/connection/tokens/service-token)
 
-•[Создать приложение](https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/connection/create-application)
+• [Создать приложение](https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/connection/create-application)
 
-•Тип приложения - Web
+• Тип приложения - Web
 
-•Базовый домен - example.com
+• Базовый домен - example.com
 
-•Доверенный Redirect URL - https://example.com
+• Доверенный Redirect URL - https://example.com
 
 После в файле .env внутрь "" вставить скопированный токен.
 
@@ -24,5 +24,6 @@ pip install -r requirements.txt
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков dvmn.org.
+
 
 
